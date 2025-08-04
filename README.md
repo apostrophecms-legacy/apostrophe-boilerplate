@@ -1,3 +1,7 @@
+# ⛔️ **DEPRECATED** — do not use for new projects
+
+See [our current docs](https://docs.apostrophecms.org/)
+
 # Apostrophe Boilerplate v2.x
 
 Apostrophe Boilerplate is a minimal starting point for [Apostrophe 2](https://github.com/apostrophecms/apostrophe) projects.
